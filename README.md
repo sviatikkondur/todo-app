@@ -8,8 +8,8 @@ Welcome to the React TODO app with API repository! 🚀
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 - [Scripts](#scripts)
-- [Testing](#testing)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -41,6 +41,10 @@ To set up the React TODO app locally, follow these steps:
 
 The app allows you to add, edit, and delete tasks, providing a seamless user experience. Interact with the intuitive interface to manage your TODO list efficiently.
 
+## Demo
+
+Check out the live demo of the React TODO app [here](https://sviatikkondur.github.io/todo-app/#/).
+
 ## Scripts
 
 - **start**: Run the app in development mode.
@@ -53,10 +57,6 @@ The app allows you to add, edit, and delete tasks, providing a seamless user exp
 - **predeploy**: Build the app before deployment.
 - **deploy**: Deploy the app.
 
-## Testing
-
-The app includes comprehensive testing using Cypress for end-to-end testing. To run tests, use the command: `npm test`.
-
 ## Contributing
 
 Contributions are welcome! To contribute to the React TODO app, follow these steps:
@@ -66,6 +66,8 @@ Contributions are welcome! To contribute to the React TODO app, follow these ste
 3. Make your changes and commit them: `git commit -m 'Add your feature'`.
 4. Push to the branch: `git push origin feature/your-feature`.
 5. Submit a pull request.
+
+Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) in all interactions.
 
 ## License
 
