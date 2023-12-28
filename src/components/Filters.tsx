@@ -1,3 +1,4 @@
+/* eslint-disable import/no-extraneous-dependencies */
 import React, { useCallback, useMemo, useContext } from 'react';
 import cn from 'classnames';
 

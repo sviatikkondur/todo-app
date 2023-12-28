@@ -1,3 +1,5 @@
+/* eslint-disable react/react-in-jsx-scope */
+/* eslint-disable import/no-extraneous-dependencies */
 import { createRoot } from 'react-dom/client';
 
 import 'bulma/css/bulma.css';

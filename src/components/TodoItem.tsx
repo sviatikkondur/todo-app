@@ -1,3 +1,4 @@
+/* eslint-disable import/no-extraneous-dependencies */
 import React, { useContext, useState } from 'react';
 import cn from 'classnames';
 import { Todo } from '../types/Todo';

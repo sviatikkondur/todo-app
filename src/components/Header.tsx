@@ -1,4 +1,5 @@
 /* eslint-disable jsx-a11y/control-has-associated-label */
+/* eslint-disable import/no-extraneous-dependencies */
 import React, {
   useContext, useEffect, useState,
 } from 'react';
